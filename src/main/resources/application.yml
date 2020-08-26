@@ -15,4 +15,8 @@ logging:
     name: test.log
   level:
     com: info
+my:
+  xiaobaishu:
+    id: 13
+    msg:  我是天才
 
